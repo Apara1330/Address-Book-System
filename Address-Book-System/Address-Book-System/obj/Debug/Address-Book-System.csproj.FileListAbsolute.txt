@@ -1,0 +1,8 @@
+F:\Address-Book-System\Address-Book-System\Address-Book-System\bin\Debug\Address-Book-System.exe.config
+F:\Address-Book-System\Address-Book-System\Address-Book-System\bin\Debug\Address-Book-System.exe
+F:\Address-Book-System\Address-Book-System\Address-Book-System\bin\Debug\Address-Book-System.pdb
+F:\Address-Book-System\Address-Book-System\Address-Book-System\obj\Debug\Address-Book-System.csproj.AssemblyReference.cache
+F:\Address-Book-System\Address-Book-System\Address-Book-System\obj\Debug\Address-Book-System.csproj.SuggestedBindingRedirects.cache
+F:\Address-Book-System\Address-Book-System\Address-Book-System\obj\Debug\Address-Book-System.csproj.CoreCompileInputs.cache
+F:\Address-Book-System\Address-Book-System\Address-Book-System\obj\Debug\Address-Book-System.exe
+F:\Address-Book-System\Address-Book-System\Address-Book-System\obj\Debug\Address-Book-System.pdb
