@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b826fdeb-145b-4226-875b-1cdbc5f4765c": {
+      "ProjectGuid": "b826fdeb-145b-4226-875b-1cdbc5f4765c",
+      "DisplayName": "Address-Book-System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
