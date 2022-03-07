@@ -77,7 +77,7 @@ namespace Address_Book_System
         }
         public void SetZipCode(int zipcode)
         {
-            this.zipCode = zipcode;
+            this.zipCode = zipCode;
         }
         public long GetMobileNumber()
         {

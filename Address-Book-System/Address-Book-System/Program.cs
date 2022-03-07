@@ -28,6 +28,10 @@ namespace Address_Book_System
                     case 2://to view list of all contacts
                         addressdetails.view();
                         break;
+
+                    case 3://to edit contacts
+                        addressdetails.EditContacts();
+                        break;
                 }
                 Console.WriteLine("To Add contacts or to list the contacts, press y/n");
                 key = Console.ReadLine();
