@@ -18,7 +18,7 @@ namespace Address_Book_System
             while(key != "y")//while loop to repeat the process untill the user done with his work of adding and displaying
             {
                 Console.WriteLine("Select the options: ");
-                Console.WriteLine("1- Add Contact, 2- Display Contact");
+                Console.WriteLine("1- Add Contact, 2- Display Contact, 3- Edit Contact");
                 int num = int.Parse(Console.ReadLine());
                 switch (num)
                 {
